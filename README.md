@@ -1,6 +1,6 @@
 # digital-writing-bitsy
 
-A litte experiment using Bitsy.
+A little experiment using Bitsy.
 
 [Amongus Bitsy](https://bitsy-646623.netlify.app/)
 
