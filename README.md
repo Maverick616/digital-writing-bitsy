@@ -2,6 +2,6 @@
 
 A little experiment using Bitsy.
 
-[Amongus Bitsy](https://bitsy-646623.netlify.app/)
+[Amongus Bitsy Experiment](https://bitsy-646623.netlify.app/)
 
 ඞ
